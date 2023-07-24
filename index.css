@@ -1,0 +1,55 @@
+html {
+    background-color: #F6DFD8;
+    font-family: "Arial", "Verdana", "sans-serif";
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: -1px 1px 0 #000,
+                  1px 1px 0 #000,
+                  1px -1px 0 #000,
+                  -1px -1px 0 #000;
+}
+
+div{
+    text-align: center;
+}
+
+
+
+div a {
+    text-decoration: none;
+    color: inherit;
+    display: block; 
+    padding: 2em;
+}
+
+p {
+    color: #fff;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.brussies {
+    background-color: #46B7EA;
+    color: #fff;
+    border: 2px solid #46B7EA;
+    margin: .25em;
+
+}
+
+.cakes {
+    background-color: #46B7EA;
+    color: #fff;
+    border: 2px solid #46B7EA;
+    margin: .25em;
+}
+
+.wings {
+    background-color: #46B7EA;
+    color: #fff;
+    border: 2px solid #46B7EA;
+    margin: .25em;
+}

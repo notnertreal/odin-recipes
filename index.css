@@ -13,18 +13,30 @@ h1 {
                   -1px -1px 0 #000;
 }
 
-div{
+div {
     text-align: center;
+
 }
 
-
-
-div a {
+a {
     text-decoration: none;
     color: inherit;
     display: block; 
     padding: 2em;
 }
+
+
+.cakes a {
+    display: block;
+    padding: 2em 2.8em;
+   
+}
+
+.wings a{
+    display: block;
+    padding: 2em 3.67em;
+}
+
 
 p {
     color: #fff;
@@ -35,7 +47,7 @@ p {
 .brussies {
     background-color: #46B7EA;
     color: #fff;
-    border: 2px solid #46B7EA;
+    border: 2px ridge #143849;
     margin: .25em;
 
 }
@@ -43,13 +55,13 @@ p {
 .cakes {
     background-color: #46B7EA;
     color: #fff;
-    border: 2px solid #46B7EA;
+    border: 2px ridge #143849;
     margin: .25em;
 }
 
 .wings {
     background-color: #46B7EA;
     color: #fff;
-    border: 2px solid #46B7EA;
+    border: 2px ridge #143849;
     margin: .25em;
 }

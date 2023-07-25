@@ -3,7 +3,7 @@ html {
     font-family: "Arial", "sans-serif";
 }
 
-
+ 
 body {
     padding: 1em;
     margin: 1em 550px;
@@ -19,11 +19,15 @@ p {
 }
 
 .contents p{
-    font-size: 20px;;
+    font-size: 18px;
 }
 
 .lists{
     margin: 0 2em;
+}
+
+ul {
+    text-align: center;
 }
 
 ul, ol {
@@ -36,6 +40,7 @@ ul, ol {
 li {
     display: block;
     color: #432E22;
+    margin: 8px 0;
 }
 
 .card {
@@ -67,23 +72,24 @@ h5 {
     margin-bottom: 4em;
 }
 
-h1, h3, h6, p {
+h1, h3, p {
     text-align: center;
     color: #3D3D3D
 }
 
-#home {
+.home {
     color: #3D3D3D;
 }
 
-button {
+#button {
     margin: 2px 20em 2px 23em;
+    padding: 0;
 }
 
-.button a {
+#button a {
     text-decoration: none;
     display: block;
-    padding: 5px;
+    padding: 10px;
     background-color: #EDEDED
 }
 
